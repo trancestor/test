@@ -1,0 +1,475 @@
+#EXTM3U
+#EXTINF:-1,LIGTV 1 HD
+http://homexx.entrydns.org:8000/live/quante/quante/2.ts
+#EXTINF:-1,LIG TV 1 HD
+http://homexx.entrydns.org:8000/live/quante/quante/130.ts
+#EXTINF:-1,LIGTV 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/3.ts
+#EXTINF:-1,LIGTV 3 HD
+http://homexx.entrydns.org:8000/live/quante/quante/4.ts
+#EXTINF:-1,LIGTV_4_HD
+http://homexx.entrydns.org:8000/live/quante/quante/208.ts
+#EXTINF:-1,VIP CHANNEL  HD
+http://homexx.entrydns.org:8000/live/quante/quante/5.ts
+#EXTINF:-1,MOVIEMAX PREMIER HD
+http://homexx.entrydns.org:8000/live/quante/quante/6.ts
+#EXTINF:-1,SALON 1  HD
+http://homexx.entrydns.org:8000/live/quante/quante/7.ts
+#EXTINF:-1,SALON 2  HD
+http://homexx.entrydns.org:8000/live/quante/quante/8.ts
+#EXTINF:-1,SALON 3  HD
+http://homexx.entrydns.org:8000/live/quante/quante/9.ts
+#EXTINF:-1,SMART SPOR  HD
+http://homexx.entrydns.org:8000/live/quante/quante/10.ts
+#EXTINF:-1,SMART SPOR 2  HD
+http://homexx.entrydns.org:8000/live/quante/quante/11.ts
+#EXTINF:-1,NBA TV HD
+http://homexx.entrydns.org:8000/live/quante/quante/12.ts
+#EXTINF:-1,TIVIBU  SPOR 1 HD
+http://homexx.entrydns.org:8000/live/quante/quante/179.ts
+#EXTINF:-1,TIVIBU  SPOR 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/180.ts
+#EXTINF:-1,TIVIBU  SPOR 3 HD
+http://homexx.entrydns.org:8000/live/quante/quante/181.ts
+#EXTINF:-1,TIVIBU  SPOR 4 HD
+http://homexx.entrydns.org:8000/live/quante/quante/182.ts
+#EXTINF:-1,YESILCAM 1 HD
+http://homexx.entrydns.org:8000/live/quante/quante/14.ts
+#EXTINF:-1,YESILCAM 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/15.ts
+#EXTINF:-1,YESILCAM 3 HD
+http://homexx.entrydns.org:8000/live/quante/quante/42.ts
+#EXTINF:-1,LOCA 1  HD
+http://homexx.entrydns.org:8000/live/quante/quante/16.ts
+#EXTINF:-1,LOCA 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/148.ts
+#EXTINF:-1,LOCA 3 HD
+http://homexx.entrydns.org:8000/live/quante/quante/218.ts
+#EXTINF:-1,VIP CHANNEL TURK  HD
+http://homexx.entrydns.org:8000/live/quante/quante/13.ts
+#EXTINF:-1,MOVIESMART TURK HD
+http://homexx.entrydns.org:8000/live/quante/quante/157.ts
+#EXTINF:-1,F?LM TV HD
+http://homexx.entrydns.org:8000/live/quante/quante/17.ts
+#EXTINF:-1,VIP CHANNEL 2  HD
+http://homexx.entrydns.org:8000/live/quante/quante/19.ts
+#EXTINF:-1,ANIMASYON HD
+http://homexx.entrydns.org:8000/live/quante/quante/20.ts
+#EXTINF:-1,MOVIEMAX PREMIER 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/24.ts
+#EXTINF:-1,MOVIEMAX STARS HD
+http://homexx.entrydns.org:8000/live/quante/quante/22.ts
+#EXTINF:-1,MOVIEMAX FAMILY HD
+http://homexx.entrydns.org:8000/live/quante/quante/23.ts
+#EXTINF:-1,SINE TV HD
+http://homexx.entrydns.org:8000/live/quante/quante/21.ts
+#EXTINF:-1,MGM HD
+http://homexx.entrydns.org:8000/live/quante/quante/63.ts
+#EXTINF:-1,MOVIEMAX ACTION 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/65.ts
+#EXTINF:-1,DIZIMAX SCIFI HD
+http://homexx.entrydns.org:8000/live/quante/quante/66.ts
+#EXTINF:-1,MOVIEMAX ACTION HD
+http://homexx.entrydns.org:8000/live/quante/quante/68.ts
+#EXTINF:-1,MOVIEMAX FESTIVAL HD
+http://homexx.entrydns.org:8000/live/quante/quante/72.ts
+#EXTINF:-1,MOVIEMAX COMEDY HD
+http://homexx.entrydns.org:8000/live/quante/quante/73.ts
+#EXTINF:-1,SHOW TV  HD
+http://homexx.entrydns.org:8000/live/quante/quante/25.ts
+#EXTINF:-1,SHOW TV
+http://homexx.entrydns.org:8000/live/quante/quante/97.ts
+#EXTINF:-1,STAR HD
+http://homexx.entrydns.org:8000/live/quante/quante/28.ts
+#EXTINF:-1,STAR TV
+http://homexx.entrydns.org:8000/live/quante/quante/98.ts
+#EXTINF:-1,ATV HD
+http://homexx.entrydns.org:8000/live/quante/quante/1.ts
+#EXTINF:-1,ATV
+http://homexx.entrydns.org:8000/live/quante/quante/95.ts
+#EXTINF:-1,KANAL D HD
+http://homexx.entrydns.org:8000/live/quante/quante/26.ts
+#EXTINF:-1,KANAL D
+http://homexx.entrydns.org:8000/live/quante/quante/96.ts
+#EXTINF:-1,FOX TV HD
+http://homexx.entrydns.org:8000/live/quante/quante/27.ts
+#EXTINF:-1,FOX TV
+http://homexx.entrydns.org:8000/live/quante/quante/200.ts
+#EXTINF:-1,TV8 HD
+http://homexx.entrydns.org:8000/live/quante/quante/57.ts
+#EXTINF:-1,TV 8
+http://homexx.entrydns.org:8000/live/quante/quante/93.ts
+#EXTINF:-1,BEYAZ TV HD
+http://homexx.entrydns.org:8000/live/quante/quante/35.ts
+#EXTINF:-1,BEYAZ TV
+http://homexx.entrydns.org:8000/live/quante/quante/199.ts
+#EXTINF:-1,KANAL 7 HD
+http://homexx.entrydns.org:8000/live/quante/quante/30.ts
+#EXTINF:-1,SAMANYOLU HD TV
+http://homexx.entrydns.org:8000/live/quante/quante/29.ts
+#EXTINF:-1,TRT 1 HD
+http://homexx.entrydns.org:8000/live/quante/quante/31.ts
+#EXTINF:-1,TRT SPOR HD
+http://homexx.entrydns.org:8000/live/quante/quante/58.ts
+#EXTINF:-1,TRT  SPOR
+http://homexx.entrydns.org:8000/live/quante/quante/88.ts
+#EXTINF:-1,TRT 3 SPOR HD
+http://homexx.entrydns.org:8000/live/quante/quante/247.ts
+#EXTINF:-1,NTV SPOR
+http://homexx.entrydns.org:8000/live/quante/quante/59.ts
+#EXTINF:-1,A SPOR
+http://homexx.entrydns.org:8000/live/quante/quante/75.ts
+#EXTINF:-1,TRT BELGESEL HD
+http://homexx.entrydns.org:8000/live/quante/quante/225.ts
+#EXTINF:-1,TRT COCUK
+http://homexx.entrydns.org:8000/live/quante/quante/183.ts
+#EXTINF:-1,NTV
+http://homexx.entrydns.org:8000/live/quante/quante/33.ts
+#EXTINF:-1,CNNTURK HABER
+http://homexx.entrydns.org:8000/live/quante/quante/32.ts
+#EXTINF:-1,HABER TURK
+http://homexx.entrydns.org:8000/live/quante/quante/34.ts
+#EXTINF:-1,A HABER  HD
+http://homexx.entrydns.org:8000/live/quante/quante/43.ts
+#EXTINF:-1,TRT HABER
+http://homexx.entrydns.org:8000/live/quante/quante/40.ts
+#EXTINF:-1,TGRT  HABER
+http://homexx.entrydns.org:8000/live/quante/quante/38.ts
+#EXTINF:-1,360 TV
+http://homexx.entrydns.org:8000/live/quante/quante/89.ts
+#EXTINF:-1,HALK  TV
+http://homexx.entrydns.org:8000/live/quante/quante/41.ts
+#EXTINF:-1,ULKE TV HD
+http://homexx.entrydns.org:8000/live/quante/quante/45.ts
+#EXTINF:-1,SPORTS  TV
+http://homexx.entrydns.org:8000/live/quante/quante/86.ts
+#EXTINF:-1,FENERBAHCE  TV
+http://homexx.entrydns.org:8000/live/quante/quante/84.ts
+#EXTINF:-1,BURSASPOR  TV
+http://homexx.entrydns.org:8000/live/quante/quante/91.ts
+#EXTINF:-1,BJK TV
+http://homexx.entrydns.org:8000/live/quante/quante/158.ts
+#EXTINF:-1,IDMAN TV
+http://homexx.entrydns.org:8000/live/quante/quante/214.ts
+#EXTINF:-1,GS TV
+http://homexx.entrydns.org:8000/live/quante/quante/117.ts
+#EXTINF:-1,KANALTURK HD
+http://homexx.entrydns.org:8000/live/quante/quante/79.ts
+#EXTINF:-1,TRGT  BELGESEL
+http://homexx.entrydns.org:8000/live/quante/quante/210.ts
+#EXTINF:-1,PLANET PEMBE
+http://homexx.entrydns.org:8000/live/quante/quante/207.ts
+#EXTINF:-1,PLANET MUTFAK
+http://homexx.entrydns.org:8000/live/quante/quante/204.ts
+#EXTINF:-1,NUMBERONE TURK
+http://homexx.entrydns.org:8000/live/quante/quante/206.ts
+#EXTINF:-1,MINIKA COCUK
+http://homexx.entrydns.org:8000/live/quante/quante/211.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://homexx.entrydns.org:8000/live/quante/quante/209.ts
+#EXTINF:-1,CINE 5
+http://homexx.entrydns.org:8000/live/quante/quante/212.ts
+#EXTINF:-1,FLASH TV
+http://homexx.entrydns.org:8000/live/quante/quante/52.ts
+#EXTINF:-1,BUGUN TV HD
+http://homexx.entrydns.org:8000/live/quante/quante/39.ts
+#EXTINF:-1,KANAL  24
+http://homexx.entrydns.org:8000/live/quante/quante/110.ts
+#EXTINF:-1,KRAL  TV
+http://homexx.entrydns.org:8000/live/quante/quante/48.ts
+#EXTINF:-1,DREAM TURK
+http://homexx.entrydns.org:8000/live/quante/quante/47.ts
+#EXTINF:-1,POWER TURK HD
+http://homexx.entrydns.org:8000/live/quante/quante/49.ts
+#EXTINF:-1,trt muzik
+http://homexx.entrydns.org:8000/live/quante/quante/50.ts
+#EXTINF:-1,PLANET  COCUK
+http://homexx.entrydns.org:8000/live/quante/quante/85.ts
+#EXTINF:-1,TRT HD
+http://homexx.entrydns.org:8000/live/quante/quante/82.ts
+#EXTINF:-1,TV2
+http://homexx.entrydns.org:8000/live/quante/quante/83.ts
+#EXTINF:-1,TLC TV
+http://homexx.entrydns.org:8000/live/quante/quante/87.ts
+#EXTINF:-1,YABAN  TV
+http://homexx.entrydns.org:8000/live/quante/quante/90.ts
+#EXTINF:-1,CARTOON  NETWORK
+http://homexx.entrydns.org:8000/live/quante/quante/80.ts
+#EXTINF:-1,MINAKA GO
+http://homexx.entrydns.org:8000/live/quante/quante/46.ts
+#EXTINF:-1,YUMURCAK  TV
+http://homexx.entrydns.org:8000/live/quante/quante/44.ts
+#EXTINF:-1,TRT Çocuk
+http://homexx.entrydns.org:8000/live/quante/quante/166.ts
+#EXTINF:-1,SINEMA TURK TV
+http://homexx.entrydns.org:8000/live/quante/quante/176.ts
+#EXTINF:-1,AKILLI TV
+http://homexx.entrydns.org:8000/live/quante/quante/175.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://homexx.entrydns.org:8000/live/quante/quante/169.ts
+#EXTINF:-1,TRT BELGESEL  HD
+http://homexx.entrydns.org:8000/live/quante/quante/147.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://homexx.entrydns.org:8000/live/quante/quante/184.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://homexx.entrydns.org:8000/live/quante/quante/69.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://homexx.entrydns.org:8000/live/quante/quante/67.ts
+#EXTINF:-1,HISTORY CHANNEL HD
+http://homexx.entrydns.org:8000/live/quante/quante/178.ts
+#EXTINF:-1,BBC HD
+http://homexx.entrydns.org:8000/live/quante/quante/292.ts
+#EXTINF:-1,Animaux-Turkish
+http://homexx.entrydns.org:8000/live/quante/quante/290.ts
+#EXTINF:-1,Animal-Planet-HD-Turkish
+http://homexx.entrydns.org:8000/live/quante/quante/291.ts
+#EXTINF:-1,CILEK KOKUSU
+http://homexx.entrydns.org:8000/live/quante/quante/177.ts
+#EXTINF:-1,SON CIKIS
+http://homexx.entrydns.org:8000/live/quante/quante/268.ts
+#EXTINF:-1,SEKSENLER
+http://homexx.entrydns.org:8000/live/quante/quante/271.ts
+#EXTINF:-1,KARAGUL
+http://homexx.entrydns.org:8000/live/quante/quante/269.ts
+#EXTINF:-1,O SES TURKIYE
+http://homexx.entrydns.org:8000/live/quante/quante/278.ts
+#EXTINF:-1,KOCAMIN AILESI
+http://homexx.entrydns.org:8000/live/quante/quante/300.ts
+#EXTINF:-1,KIRALIK ASK ARANIYOR
+http://homexx.entrydns.org:8000/live/quante/quante/299.ts
+#EXTINF:-1,KARA SEVDA
+http://homexx.entrydns.org:8000/live/quante/quante/297.ts
+#EXTINF:-1,HATIRLA GONUL
+http://homexx.entrydns.org:8000/live/quante/quante/296.ts
+#EXTINF:-1,EVE_DONUS
+http://homexx.entrydns.org:8000/live/quante/quante/295.ts
+#EXTINF:-1,BIR_DENIZ_HIKAYESI_(DIZI)
+http://homexx.entrydns.org:8000/live/quante/quante/298.ts
+#EXTINF:-1,ASLA_VAZGECMEM_(DIZI)
+http://homexx.entrydns.org:8000/live/quante/quante/301.ts
+#EXTINF:-1,NE_MUNASABET
+http://homexx.entrydns.org:8000/live/quante/quante/279.ts
+#EXTINF:-1,MARAL
+http://homexx.entrydns.org:8000/live/quante/quante/273.ts
+#EXTINF:-1,K?RALIK A?K
+http://homexx.entrydns.org:8000/live/quante/quante/277.ts
+#EXTINF:-1,KERTENKELE
+http://homexx.entrydns.org:8000/live/quante/quante/276.ts
+#EXTINF:-1,ADI MUTLULUK
+http://homexx.entrydns.org:8000/live/quante/quante/275.ts
+#EXTINF:-1,ACIL ASK ARANIYOR
+http://homexx.entrydns.org:8000/live/quante/quante/274.ts
+#EXTINF:-1,DIRILIS ERTUGRUL
+http://homexx.entrydns.org:8000/live/quante/quante/272.ts
+#EXTINF:-1,ASLA VAZGECMEM
+http://homexx.entrydns.org:8000/live/quante/quante/270.ts
+#EXTINF:-1,POYRAZ KARAYEL
+http://homexx.entrydns.org:8000/live/quante/quante/165.ts
+#EXTINF:-1,FILINTA
+http://homexx.entrydns.org:8000/live/quante/quante/144.ts
+#EXTINF:-1,PARAMPARCA
+http://homexx.entrydns.org:8000/live/quante/quante/145.ts
+#EXTINF:-1,KIRGIN CICEKLER
+http://homexx.entrydns.org:8000/live/quante/quante/128.ts
+#EXTINF:-1,ILISKI DURUMU
+http://homexx.entrydns.org:8000/live/quante/quante/127.ts
+#EXTINF:-1,YESIL DENIZ
+http://homexx.entrydns.org:8000/live/quante/quante/126.ts
+#EXTINF:-1,Kara ekmek
+http://homexx.entrydns.org:8000/live/quante/quante/125.ts
+#EXTINF:-1,Eskiya dunyaya hukumdar olmaz
+http://homexx.entrydns.org:8000/live/quante/quante/124.ts
+#EXTINF:-1,Sehrin melekleri
+http://homexx.entrydns.org:8000/live/quante/quante/121.ts
+#EXTINF:-1,KADERIMIN YAZILDIGI GUN
+http://homexx.entrydns.org:8000/live/quante/quante/122.ts
+#EXTINF:-1,YAZIN OYKUSU
+http://homexx.entrydns.org:8000/live/quante/quante/202.ts
+#EXTINF:-1,TATLI KUCUK
+http://homexx.entrydns.org:8000/live/quante/quante/201.ts
+#EXTINF:-1,NE MUNASEBET
+http://homexx.entrydns.org:8000/live/quante/quante/203.ts
+#EXTINF:-1,KURTLAR VADISI
+http://homexx.entrydns.org:8000/live/quante/quante/123.ts
+#EXTINF:-1,MUHTESEM YUZYIL KOSEM
+http://homexx.entrydns.org:8000/live/quante/quante/120.ts
+#EXTINF:-1,RUMELI TV
+http://homexx.entrydns.org:8000/live/quante/quante/137.ts
+#EXTINF:-1,INADINA ASK
+http://homexx.entrydns.org:8000/live/quante/quante/131.ts
+#EXTINF:-1,EVLI VE OFKELI
+http://homexx.entrydns.org:8000/live/quante/quante/55.ts
+#EXTINF:-1,BABA CANDIR
+http://homexx.entrydns.org:8000/live/quante/quante/94.ts
+#EXTINF:-1,BIR DENIZ HIKAYESI
+http://homexx.entrydns.org:8000/live/quante/quante/99.ts
+#EXTINF:-1,YILANLARIN OCU
+http://homexx.entrydns.org:8000/live/quante/quante/114.ts
+#EXTINF:-1,SEN-BENIMSIN
+http://homexx.entrydns.org:8000/live/quante/quante/115.ts
+#EXTINF:-1,GUNESIN KIZLARI
+http://homexx.entrydns.org:8000/live/quante/quante/118.ts
+#EXTINF:-1,GULDUR GULDUR
+http://homexx.entrydns.org:8000/live/quante/quante/119.ts
+#EXTINF:-1,SKY SELECT HD
+http://homexx.entrydns.org:8000/live/quante/quante/189.ts
+#EXTINF:-1,SKY SELECT 1 HD
+http://homexx.entrydns.org:8000/live/quante/quante/188.ts
+#EXTINF:-1,SKY SELECT 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/187.ts
+#EXTINF:-1,SKY SELECT 3 HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/288.ts
+#EXTINF:-1,SKY SELECT 4 HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/289.ts
+#EXTINF:-1,PIRIMA FILA 1 HD
+http://homexx.entrydns.org:8000/live/quante/quante/134.ts
+#EXTINF:-1,PIRIMA FILA 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/135.ts
+#EXTINF:-1,PIRIMA FILA 3 HD
+http://homexx.entrydns.org:8000/live/quante/quante/54.ts
+#EXTINF:-1,PIRIMA FILA 4 HD
+http://homexx.entrydns.org:8000/live/quante/quante/108.ts
+#EXTINF:-1,PIRIMA FILA 5 HD
+http://homexx.entrydns.org:8000/live/quante/quante/109.ts
+#EXTINF:-1,PIRIMA FILA 6 HD
+http://homexx.entrydns.org:8000/live/quante/quante/142.ts
+#EXTINF:-1,SKY BUNDESLIGA 1 DE
+http://homexx.entrydns.org:8000/live/quante/quante/100.ts
+#EXTINF:-1,SKY BUNDESLIGA 1 HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/219.ts
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/101.ts
+#EXTINF:-1,SKY SPORT 1 DE
+http://homexx.entrydns.org:8000/live/quante/quante/205.ts
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/102.ts
+#EXTINF:-1,SKY SPORT 2
+http://homexx.entrydns.org:8000/live/quante/quante/239.ts
+#EXTINF:-1,EUROSPORT 1 HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/186.ts
+#EXTINF:-1,EUROSPORT 2 HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/185.ts
+#EXTINF:-1,SUPER RTL HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/284.ts
+#EXTINF:-1,SKY CINEMA +1 DE
+http://homexx.entrydns.org:8000/live/quante/quante/287.ts
+#EXTINF:-1,NICKNICHT DE
+http://homexx.entrydns.org:8000/live/quante/quante/285.ts
+#EXTINF:-1,SKY EMOTION HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/282.ts
+#EXTINF:-1,SAT 1
+http://homexx.entrydns.org:8000/live/quante/quante/227.ts
+#EXTINF:-1,SKY ATLANTIC HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/283.ts
+#EXTINF:-1,13 TH  STREET HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/286.ts
+#EXTINF:-1,SKY COMEDY
+http://homexx.entrydns.org:8000/live/quante/quante/228.ts
+#EXTINF:-1,SKY CINEMA HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/149.ts
+#EXTINF:-1,SKY ACTION HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/150.ts
+#EXTINF:-1,PROSIEBEN HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/152.ts
+#EXTINF:-1,ORF 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/226.ts
+#EXTINF:-1,ZDF HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/153.ts
+#EXTINF:-1,VOX HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/156.ts
+#EXTINF:-1,RTL HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/154.ts
+#EXTINF:-1,RTL 2 HD DE
+http://homexx.entrydns.org:8000/live/quante/quante/155.ts
+#EXTINF:-1,SPORT CLUB 1
+http://homexx.entrydns.org:8000/live/quante/quante/193.ts
+#EXTINF:-1,SPORT CLUB 2
+http://homexx.entrydns.org:8000/live/quante/quante/198.ts
+#EXTINF:-1,SPORT CLUB 3
+http://homexx.entrydns.org:8000/live/quante/quante/229.ts
+#EXTINF:-1,SPORT CLUB 1 HD
+http://homexx.entrydns.org:8000/live/quante/quante/197.ts
+#EXTINF:-1,ARENA 1 HD HR
+http://homexx.entrydns.org:8000/live/quante/quante/196.ts
+#EXTINF:-1,ARENA 2 HD HR
+http://homexx.entrydns.org:8000/live/quante/quante/195.ts
+#EXTINF:-1,ARENA 3 HD HR
+http://homexx.entrydns.org:8000/live/quante/quante/194.ts
+#EXTINF:-1,ARENA 4 HD HR
+http://homexx.entrydns.org:8000/live/quante/quante/215.ts
+#EXTINF:-1,ARENA 5 HD HR
+http://homexx.entrydns.org:8000/live/quante/quante/216.ts
+#EXTINF:-1,Sky-Sport1-UK
+http://homexx.entrydns.org:8000/live/quante/quante/192.ts
+#EXTINF:-1,SKY SPORTS 2 UK
+http://homexx.entrydns.org:8000/live/quante/quante/191.ts
+#EXTINF:-1,SKY SPORTS 3 UK
+http://homexx.entrydns.org:8000/live/quante/quante/190.ts
+#EXTINF:-1,SKY SPORTS 4 UK
+http://homexx.entrydns.org:8000/live/quante/quante/252.ts
+#EXTINF:-1,SKY SPORTS 5 UK
+http://homexx.entrydns.org:8000/live/quante/quante/253.ts
+#EXTINF:-1,SKY SPORTS F1 UK
+http://homexx.entrydns.org:8000/live/quante/quante/254.ts
+#EXTINF:-1,SKY SPORT FORMULA
+http://homexx.entrydns.org:8000/live/quante/quante/236.ts
+#EXTINF:-1,Sky Sports 4
+http://homexx.entrydns.org:8000/live/quante/quante/231.ts
+#EXTINF:-1,Sky Sports 5
+http://homexx.entrydns.org:8000/live/quante/quante/230.ts
+#EXTINF:-1,ITV 1 HD UK
+http://homexx.entrydns.org:8000/live/quante/quante/294.ts
+#EXTINF:-1,ITV 2 HD UK
+http://homexx.entrydns.org:8000/live/quante/quante/293.ts
+#EXTINF:-1,ITV 3 HD UK
+http://homexx.entrydns.org:8000/live/quante/quante/281.ts
+#EXTINF:-1,ITV4 UK HD
+http://homexx.entrydns.org:8000/live/quante/quante/280.ts
+#EXTINF:-1,SUPER SPORT 2
+http://homexx.entrydns.org:8000/live/quante/quante/234.ts
+#EXTINF:-1,SUPER SPORT 3
+http://homexx.entrydns.org:8000/live/quante/quante/233.ts
+#EXTINF:-1,SUPER SPORT 4
+http://homexx.entrydns.org:8000/live/quante/quante/232.ts
+#EXTINF:-1,OTE  SPORT 2
+http://homexx.entrydns.org:8000/live/quante/quante/235.ts
+#EXTINF:-1,BT SPORT 1
+http://homexx.entrydns.org:8000/live/quante/quante/238.ts
+#EXTINF:-1,BT SPORT 2
+http://homexx.entrydns.org:8000/live/quante/quante/237.ts
+#EXTINF:-1,Moja&Tvoja SPORT 6
+http://homexx.entrydns.org:8000/live/quante/quante/246.ts
+#EXTINF:-1,Moja&Tvoja SPORT 4
+http://homexx.entrydns.org:8000/live/quante/quante/245.ts
+#EXTINF:-1,SPOR TV 1
+http://homexx.entrydns.org:8000/live/quante/quante/244.ts
+#EXTINF:-1,SPORT TIME 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/243.ts
+#EXTINF:-1,SPORT TIME 3 HD
+http://homexx.entrydns.org:8000/live/quante/quante/242.ts
+#EXTINF:-1,SPORT TIME 4 HD
+http://homexx.entrydns.org:8000/live/quante/quante/251.ts
+#EXTINF:-1,SPORT TIME 5 HD TV
+http://homexx.entrydns.org:8000/live/quante/quante/250.ts
+#EXTINF:-1,SPORT TIME V6 TV
+http://homexx.entrydns.org:8000/live/quante/quante/249.ts
+#EXTINF:-1,SPORT TIME V7
+http://homexx.entrydns.org:8000/live/quante/quante/248.ts
+#EXTINF:-1,BEINSPORT 1 HD
+http://homexx.entrydns.org:8000/live/quante/quante/111.ts
+#EXTINF:-1,BEINSPORT 2 HD
+http://homexx.entrydns.org:8000/live/quante/quante/112.ts
+#EXTINF:-1,BEINSPORT 1 HD AR
+http://homexx.entrydns.org:8000/live/quante/quante/257.ts
+#EXTINF:-1,BEINSPORT 1 HD FR
+http://homexx.entrydns.org:8000/live/quante/quante/258.ts
+#EXTINF:-1,BEINSPORT 2 HD AR
+http://homexx.entrydns.org:8000/live/quante/quante/259.ts
+#EXTINF:-1,BEINSPORT 3 HD AR
+http://homexx.entrydns.org:8000/live/quante/quante/260.ts
+#EXTINF:-1,BEIN SPORT 3 HD
+http://homexx.entrydns.org:8000/live/quante/quante/241.ts
+#EXTINF:-1,BEIN SPORT 4 HD
+http://homexx.entrydns.org:8000/live/quante/quante/240.ts
+#EXTINF:-1,BEIN SPORT 5 HD
+http://homexx.entrydns.org:8000/live/quante/quante/255.ts

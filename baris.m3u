@@ -1,0 +1,334 @@
+#EXTM3U
+#EXTINF:-1,[I][B][COLOR yellow]--- Baris IPTV ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[COLOR yellow][I][B]Temporäre Sender[/B][/I][/COLOR
+http://0.0.0.0:1234
+
+#EXTINF:-1,[I][B][COLOR green]====DE SKY Quellen====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[I][B][COLOR yellow]====Quelle1====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,SKY Bundesliga HD
+http://bit.ly/1XmOcIc
+#EXTINF:-1,SKY Sport HD
+http://bit.ly/1PTjMJa
+#EXTINF:-1,Sport 1 HD
+http://tinyurl.com/q9bthub
+#EXTINF:-1,SKY Sport HD Austria
+http://bit.ly/1kYFDlR
+
+#EXTINF:-1,[I][B][COLOR yellow]====Quelle2====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DE: Sport 1 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/673.m3u8
+#EXTINF:-1,DE: Sport 1+ HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1162.m3u8
+#EXTINF:-1,DE: Sport 1 US HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1125.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 1 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/7.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 2 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/179.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 3 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1068.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 4 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1069.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 5 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1070.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 6 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1071.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 7 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1072.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 8 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1073.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 9 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1074.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 10 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1075.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 11 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1076.m3u8
+#EXTINF:-1,DE: Sky Germany Sport News HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/864.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 1 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/5.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 2 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1032.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 3 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1033.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 4 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1077.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 5 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1078.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 6 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1079.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 7 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1080.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 8 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1081.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 9 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1082.m3u8
+#EXTINF:-1,DE: Sky Germany Bundesliga 10 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1083.m3u8
+
+#EXTINF:-1,[I][B][COLOR yellow]====Quelle3====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DE: Sky Germany Bundesliga 1 HD
+http://juventus4ever.ddns.net:8000/live/germani/germani/2269.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 2 HD
+http://juventus4ever.ddns.net:8000/live/germani/germani/2268.ts
+#EXTINF:-1,DE: Sky Germany Cinema  24
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2260.ts
+#EXTINF:-1,DE: Sky Germany Cinema  1 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2261.ts
+#EXTINF:-1,DE: Sky Germany Atlantic
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2271.ts
+#EXTINF:-1,DE: Sky Germany Action HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2272.ts
+#EXTINF:-1,DE: Sky Gemany Cinema HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2274.ts
+#EXTINF:-1,DE: Sky Germany Emotion
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2257.ts
+#EXTINF:-1,DE: Sport 1  HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2238.ts
+#EXTINF:-1,DE: Sky Germany Sport News HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2242.ts
+#EXTINF:-1,DE: Sky Germany Sport 1 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2250.ts
+#EXTINF:-1,DE: Sky Germany Sport 2 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2249.ts
+#EXTINF:-1,DE: Sky Germany Sport 3 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2248.ts
+#EXTINF:-1,DE: Sky Germany Sport 4 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2247.ts
+#EXTINF:-1,DE: Sky Germany Sport 5 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2246.ts
+#EXTINF:-1,DE: Sky Germany Sport 6 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2245.ts
+#EXTINF:-1,DE: Sky Germany Sport 7 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2244.ts
+#EXTINF:-1,DE: Sky Germany Sport 8 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2243.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 1 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2269.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 2 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2268.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 3 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2267.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 4 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2266.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 5 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2265.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 6 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2264.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 7 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2263.ts
+#EXTINF:-1,DE: Sky Germany Bundesliga 8 HD
+http://juventus4ever.ddns.net:8000/live/italiano/italiano/2262.ts
+
+#EXTINF:-1,[I][B][COLOR yellow]====Quelle4====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DE:SKY_CINEMA+1
+http://cdn.step-tv.com:8000/live/33334444/33334444/371.ts
+#EXTINF:-1,DE:SKY_CINEMA_24HD
+http://cdn.step-tv.com:8000/live/33334444/33334444/361.ts
+#EXTINF:-1,DE:SKY_ATLANTIC
+http://cdn.step-tv.com:8000/live/33334444/33334444/362.ts
+#EXTINF:-1,DE:SKY_EMOTION
+http://cdn.step-tv.com:8000/live/33334444/33334444/360.ts
+#EXTINF:-1,DE:SKY_COMEDY
+http://cdn.step-tv.com:8000/live/33334444/33334444/370.ts
+#EXTINF:-1,DE:Sky_KRIMI
+http://cdn.step-tv.com:8000/live/33334444/33334444/942.ts
+#EXTINF:-1,DE:SKY_HITS
+http://cdn.step-tv.com:8000/live/33334444/33334444/369.ts
+#EXTINF:-1,DE:SKY_SELECT6
+http://cdn.step-tv.com:8000/live/33334444/33334444/363.ts
+#EXTINF:-1,DE:SKY_SELECT5
+http://cdn.step-tv.com:8000/live/33334444/33334444/364.ts
+#EXTINF:-1,DE:SKY_SELECT4
+http://cdn.step-tv.com:8000/live/33334444/33334444/365.ts
+#EXTINF:-1,DE:SKY_SELECT3
+http://cdn.step-tv.com:8000/live/33334444/33334444/366.ts
+#EXTINF:-1,DE:SKY_SELECT2
+http://cdn.step-tv.com:8000/live/33334444/33334444/367.ts
+#EXTINF:-1,DE:SKY_SELECT1
+http://cdn.step-tv.com:8000/live/33334444/33334444/368.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_HD
+http://cdn.step-tv.com:8000/live/33334444/33334444/359.ts
+#EXTINF:-1,DE:SKY_SPORTS_HD1
+http://cdn.step-tv.com:8000/live/33334444/33334444/357.ts
+#EXTINF:-1,DE:SKY_SPORTS_HD2
+http://cdn.step-tv.com:8000/live/33334444/33334444/358.ts
+
+#EXTINF:-1,[I][B][COLOR yellow]====Quelle5====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DE Sky Sport 1
+http://skyiptv.ddns.net:8000/live/shima/shima/316.m3u8
+#EXTINF:-1,DE Sky Sport 2
+http://skyiptv.ddns.net:8000/live/shima/shima/315.m3u8
+#EXTINF:-1,DE SKY Cinema  24
+http://skyiptv.ddns.net:8000/live/shima/shima/317.m3u8
+#EXTINF:-1,DE SKY Cinema
+http://skyiptv.ddns.net:8000/live/shima/shima/318.m3u8
+#EXTINF:-1,DE SKY Bundesliga
+http://skyiptv.ddns.net:8000/live/shima/shima/319.m3u8
+
+#EXTINF:-1,[I][B][COLOR yellow]====Quelle6====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DE: Sky Bundesliga
+http://x-micky.mickypizza1.com:8000/live/iptv/iptv/631.ts
+#EXTINF:-1,DE_SKY_CINEMA_HD
+http://www.t12v.com:8000/live/habib1/habib1/1280.ts
+#EXTINF:-1,DE_SKY_CINEMA
+http://www.t12v.com:8000/live/habib1/habib1/975.ts
+#EXTINF:-1,DE_SKY_CINEMA_HD_1
+http://www.t12v.com:8000/live/habib1/habib1/976.ts
+#EXTINF:-1,DE_SKY_EMOTION_HD
+http://www.t12v.com:8000/live/habib1/habib1/979.ts
+#EXTINF:-1,DE_SKY_COMEDY_HD
+http://www.t12v.com:8000/live/habib1/habib1/978.ts
+#EXTINF:-1,DE_SKY_ACTION_HD
+http://www.t12v.com:8000/live/habib1/habib1/973.ts
+#EXTINF:-1,DE_SKY_CINEMA_24_HD
+http://www.t12v.com:8000/live/habib1/habib1/977.ts
+#EXTINF:-1,DE_SKY_ATLANTIC_HD
+http://www.t12v.com:8000/live/habib1/habib1/1022.ts
+#EXTINF:-1,DE_SKY_HITS
+http://www.t12v.com:8000/live/habib1/habib1/760.ts
+#EXTINF:-1,DE_SKY_FAMALY_DRAMA
+http://www.t12v.com:8000/live/habib1/habib1/759.ts
+#EXTINF:-1,DE_SKY_KRIMI
+http://www.t12v.com:8000/live/habib1/habib1/1024.ts
+#EXTINF:-1,oooo_SKY_SPORT_oooo
+http://www.t12v.com:8000/live/habib1/habib1/1350.ts
+#EXTINF:-1,DE_SKY_BUNDESLIGA_1
+http://www.t12v.com:8000/live/habib1/habib1/1023.ts
+#EXTINF:-1,DE_SKY_CHAMPIONS
+http://www.t12v.com:8000/live/habib1/habib1/758.ts
+#EXTINF:-1,DE_EUROSPORT
+http://www.t12v.com:8000/live/habib1/habib1/728.ts
+#EXTINF:-1,DE_SPORT1
+http://www.t12v.com:8000/live/habib1/habib1/761.ts
+#EXTINF:-1,DE_SPORTTIME_TV_1_HD
+http://www.t12v.com:8000/live/habib1/habib1/982.ts
+#EXTINF:-1,DE_SPORTTIME_TV_2_HD
+http://www.t12v.com:8000/live/habib1/habib1/983.ts
+#EXTINF:-1,DE_SPORTTIME_TV_3_HD
+http://www.t12v.com:8000/live/habib1/habib1/984.ts
+#EXTINF:-1,DE_SPORTTIME_TV_4_HD
+http://www.t12v.com:8000/live/habib1/habib1/985.ts
+#EXTINF:-1,DE_SPORTTIME_TV_5_HD
+http://www.t12v.com:8000/live/habib1/habib1/986.ts
+#EXTINF:-1,DE_SPORTTIME_TV_6_HD
+http://www.t12v.com:8000/live/habib1/habib1/987.ts
+#EXTINF:-1,DE_SPORTTIME_TV_7_HD
+http://www.t12v.com:8000/live/habib1/habib1/988.ts
+#EXTINF:-1,DE_SKY_SPORT_1_HD
+http://www.t12v.com:8000/live/habib1/habib1/981.ts
+#EXTINF:-1,DE_SKY_SPORT_2_HD
+http://www.t12v.com:8000/live/habib1/habib1/980.ts
+#EXTINF:-1,DE_SKY_SELECT_HD
+http://www.t12v.com:8000/live/habib1/habib1/972.ts
+#EXTINF:-1,DE_SKY_SELECT_1_HD
+http://www.t12v.com:8000/live/habib1/habib1/962.ts
+#EXTINF:-1,DE_SKY_SELECT_2_HD
+http://www.t12v.com:8000/live/habib1/habib1/963.ts
+#EXTINF:-1,DE_SKY_SELECT_3_HD
+http://www.t12v.com:8000/live/habib1/habib1/964.ts
+#EXTINF:-1,DE_SKY_SELECT_4_HD
+http://www.t12v.com:8000/live/habib1/habib1/965.ts
+#EXTINF:-1,DE_SKY_SELECT_5_HD
+http://www.t12v.com:8000/live/habib1/habib1/966.ts
+#EXTINF:-1,DE_SKY_SELECT_6_HD
+http://www.t12v.com:8000/live/habib1/habib1/967.ts
+#EXTINF:-1,DE_SKY_SELECT_7_HD
+http://www.t12v.com:8000/live/habib1/habib1/968.ts
+#EXTINF:-1,DE_SKY_SELECT_8_HD
+http://www.t12v.com:8000/live/habib1/habib1/969.ts
+#EXTINF:-1,DE_SKY_SELECT_9_HD
+http://www.t12v.com:8000/live/habib1/habib1/970.ts
+#EXTINF:-1,D-sky emotion
+http://skyiptv.ddns.net:8000/live/shima/shima/302.m3u8
+#EXTINF:-1,D-sky comedy
+http://skyiptv.ddns.net:8000/live/shima/shima/303.m3u8
+#EXTINF:-1,D-sky action
+http://skyiptv.ddns.net:8000/live/shima/shima/305.m3u8
+#EXTINF:-1,DE: Sky Germany Select 1 HD
+http://skyiptv.ddns.net:8000/live/shima/shima/504.m3u8
+#EXTINF:-1,DE: Sky Germany Select 2 HD
+http://skyiptv.ddns.net:8000/live/shima/shima/505.m3u8
+#EXTINF:-1,DE: Sky Germany Select 3 HD
+http://skyiptv.ddns.net:8000/live/shima/shima/506.m3u8
+#EXTINF:-1,DE: Sky Germany Select 4 HD
+http://skyiptv.ddns.net:8000/live/shima/shima/507.m3u8
+#EXTINF:-1,DE: Sky Germany Select 5 HD
+http://skyiptv.ddns.net:8000/live/shima/shima/508.m3u8
+#EXTINF:-1,DE: Sky Germany Select 6 HD
+http://skyiptv.ddns.net:8000/live/shima/shima/509.m3u8
+#EXTINF:-1,Skyde Cinema 1
+http://skyiptv.ddns.net:8000/live/shima/shima/294.m3u8
+
+#EXTINF:-1,[I][B][COLOR green]====TR SKY Quellen====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[I][B][COLOR yellow]====Quelle1====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,lig tv
+http://92.222.205.40:8080/superlig
+#EXTINF:-1,TR_LIG_TV_1
+http://www.t12v.com:8000/live/romeo/romeo/896.ts
+#EXTINF:-1,TR_LIG_TV_2
+http://www.t12v.com:8000/live/romeo/romeo/895.ts
+#EXTINF:-1,TR_LIG_TV_3
+http://www.t12v.com:8000/live/romeo/romeo/905.ts
+#EXTINF:0,Lig TV
+rtmp://95.211.95.37/vod/main//ch2
+#EXTINF:0,Lig TV 3
+rtmp://64.12.246.38/dev_stable//c3
+#EXTINF:-1,TR_SALON_1
+http://www.t12v.com:8000/live/romeo/romeo/894.ts
+#EXTINF:-1,TR_SALON_2
+http://www.t12v.com:8000/live/romeo/romeo/893.ts
+#EXTINF:-1,TR_SALON_3
+http://www.t12v.com:8000/live/romeo/romeo/892.ts
+#EXTINF:-1,TR_SKY
+http://www.t12v.com:8000/live/romeo/romeo/891.ts
+#EXTINF:-1,TR_MOVIE_SMART_2
+http://www.t12v.com:8000/live/romeo/romeo/889.ts
+#EXTINF:-1,TR_SINEMA_YESILCAM_1
+http://www.t12v.com:8000/live/romeo/romeo/888.ts
+#EXTINF:-1,TR_NR_1
+http://www.t12v.com:8000/live/romeo/romeo/722.ts
+#EXTINF:-1,TR_MOVIE_PREMIER_HD
+http://www.t12v.com:8000/live/romeo/romeo/726.ts
+#EXTINF:-1,TR_MINIKA
+http://www.t12v.com:8000/live/romeo/romeo/708.ts
+
+#EXTINF:-1,[I][B][COLOR yellow]====Quelle2====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,TR_LIGA_TV_1 (YEDEK)
+http://tv.dyndns.tv:8000/live/canne1/canne1/896.ts
+#EXTINF:-1,TR_LIGA_TV_2 (YEDEK)
+http://tv.dyndns.tv:8000/live/canne1/canne1/895.ts
+#EXTINF:-1,TR_LIGA_TV_3 (YEDEK)
+http://tv.dyndns.tv:8000/live/canne1/canne1/905.ts
+
+#EXTINF:-1,[I][B][COLOR yellow]====Quelle3====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Sports LIG TV1
+http://skyiptv.ddns.net:8000/live/shima/shima/246.m3u8
+#EXTINF:-1,Sports LIG TV2
+http://skyiptv.ddns.net:8000/live/shima/shima/245.m3u8
+#EXTINF:-1,Sports LIG TV3
+http://skyiptv.ddns.net:8000/live/shima/shima/244.m3u8
